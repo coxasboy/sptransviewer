@@ -1,0 +1,3 @@
+BusPosition{identifier=11181, status=true, positionX=-46.761003, positionY=-23.502244500000003, timeStamp=Fri Oct 24 12:49:00 BRST 2014}
+BusPosition{identifier=11181, status=true, positionX=-46.7588625, positionY=-23.503063, timeStamp=Fri Oct 24 12:50:00 BRST 2014}
+BusPosition{identifier=11181, status=true, positionX=-46.75839825, positionY=-23.5032945, timeStamp=Fri Oct 24 12:51:00 BRST 2014}

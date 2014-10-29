@@ -1,0 +1,15 @@
+BusPosition{identifier=21552, status=false, positionX=-46.673572750000005, positionY=-23.547307500000002, timeStamp=Tue Oct 28 18:24:00 BRST 2014}
+BusPosition{identifier=21552, status=false, positionX=-46.674914, positionY=-23.549022, timeStamp=Tue Oct 28 18:25:00 BRST 2014}
+BusPosition{identifier=21552, status=false, positionX=-46.67563025, positionY=-23.551429749999997, timeStamp=Tue Oct 28 18:26:00 BRST 2014}
+BusPosition{identifier=21552, status=false, positionX=-46.675892, positionY=-23.552014999999997, timeStamp=Tue Oct 28 18:27:00 BRST 2014}
+BusPosition{identifier=21552, status=false, positionX=-46.6750705, positionY=-23.55245825, timeStamp=Tue Oct 28 18:28:00 BRST 2014}
+BusPosition{identifier=21552, status=false, positionX=-46.672552625, positionY=-23.553491, timeStamp=Tue Oct 28 18:29:00 BRST 2014}
+BusPosition{identifier=21552, status=false, positionX=-46.6690983125, positionY=-23.5548855625, timeStamp=Tue Oct 28 18:30:00 BRST 2014}
+BusPosition{identifier=21552, status=false, positionX=-46.666951499999996, positionY=-23.555836, timeStamp=Tue Oct 28 18:31:00 BRST 2014}
+BusPosition{identifier=21552, status=false, positionX=-46.6630465, positionY=-23.555932, timeStamp=Tue Oct 28 18:32:00 BRST 2014}
+BusPosition{identifier=21552, status=false, positionX=-46.662141875, positionY=-23.55652225, timeStamp=Tue Oct 28 18:33:00 BRST 2014}
+BusPosition{identifier=21552, status=false, positionX=-46.662141875, positionY=-23.55652225, timeStamp=Tue Oct 28 18:34:00 BRST 2014}
+BusPosition{identifier=21552, status=false, positionX=-46.662141875, positionY=-23.55652225, timeStamp=Tue Oct 28 18:35:00 BRST 2014}
+BusPosition{identifier=21552, status=false, positionX=-46.662141875, positionY=-23.55652225, timeStamp=Tue Oct 28 18:36:00 BRST 2014}
+BusPosition{identifier=21552, status=false, positionX=-46.662141875, positionY=-23.55652225, timeStamp=Tue Oct 28 18:37:00 BRST 2014}
+BusPosition{identifier=21552, status=false, positionX=-46.662329625, positionY=-23.55633475, timeStamp=Tue Oct 28 18:38:00 BRST 2014}
