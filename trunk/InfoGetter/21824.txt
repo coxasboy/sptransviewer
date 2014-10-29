@@ -1,0 +1,15 @@
+BusPosition{identifier=21824, status=true, positionX=-46.685739749999996, positionY=-23.56005575, timeStamp=Wed Oct 29 09:31:00 BRST 2014}
+BusPosition{identifier=21824, status=true, positionX=-46.686619, positionY=-23.5605975, timeStamp=Wed Oct 29 09:32:00 BRST 2014}
+BusPosition{identifier=21824, status=true, positionX=-46.6903, positionY=-23.5596265, timeStamp=Wed Oct 29 09:33:00 BRST 2014}
+BusPosition{identifier=21824, status=true, positionX=-46.690895499999996, positionY=-23.558724249999997, timeStamp=Wed Oct 29 09:34:00 BRST 2014}
+BusPosition{identifier=21824, status=true, positionX=-46.689710000000005, positionY=-23.557756625, timeStamp=Wed Oct 29 09:35:00 BRST 2014}
+BusPosition{identifier=21824, status=true, positionX=-46.690972124999995, positionY=-23.55480375, timeStamp=Wed Oct 29 09:36:00 BRST 2014}
+BusPosition{identifier=21824, status=true, positionX=-46.690972124999995, positionY=-23.55480375, timeStamp=Wed Oct 29 09:37:00 BRST 2014}
+BusPosition{identifier=21824, status=true, positionX=-46.69134375, positionY=-23.554017125, timeStamp=Wed Oct 29 09:38:00 BRST 2014}
+BusPosition{identifier=21824, status=true, positionX=-46.69039587499999, positionY=-23.553453249999997, timeStamp=Wed Oct 29 09:39:00 BRST 2014}
+BusPosition{identifier=21824, status=true, positionX=-46.68924737500001, positionY=-23.55276825, timeStamp=Wed Oct 29 09:40:00 BRST 2014}
+BusPosition{identifier=21824, status=true, positionX=-46.6894605, positionY=-23.551185750000002, timeStamp=Wed Oct 29 09:41:00 BRST 2014}
+BusPosition{identifier=21824, status=true, positionX=-46.690861875, positionY=-23.551215625, timeStamp=Wed Oct 29 09:42:00 BRST 2014}
+BusPosition{identifier=21824, status=true, positionX=-46.690861875, positionY=-23.551215625, timeStamp=Wed Oct 29 09:43:00 BRST 2014}
+BusPosition{identifier=21824, status=true, positionX=-46.6922285, positionY=-23.546561999999998, timeStamp=Wed Oct 29 09:44:00 BRST 2014}
+BusPosition{identifier=21824, status=true, positionX=-46.6919425, positionY=-23.545911750000002, timeStamp=Wed Oct 29 09:45:00 BRST 2014}

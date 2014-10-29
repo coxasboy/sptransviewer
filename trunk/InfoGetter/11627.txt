@@ -1,0 +1,10 @@
+BusPosition{identifier=11627, status=true, positionX=-46.72845675, positionY=-23.510786, timeStamp=Thu Feb 06 15:50:00 BRST 2014}
+BusPosition{identifier=11627, status=true, positionX=-46.725694625, positionY=-23.515268875, timeStamp=Thu Feb 06 15:51:00 BRST 2014}
+BusPosition{identifier=11627, status=true, positionX=-46.725694625, positionY=-23.515268875, timeStamp=Thu Feb 06 15:52:00 BRST 2014}
+BusPosition{identifier=11627, status=true, positionX=-46.720438, positionY=-23.514069499999998, timeStamp=Thu Feb 06 15:53:00 BRST 2014}
+BusPosition{identifier=11627, status=true, positionX=-46.7157625, positionY=-23.514815125, timeStamp=Thu Feb 06 15:54:00 BRST 2014}
+BusPosition{identifier=11627, status=true, positionX=-46.712756468749994, positionY=-23.516563124999998, timeStamp=Thu Feb 06 15:55:00 BRST 2014}
+BusPosition{identifier=11627, status=true, positionX=-46.712756468749994, positionY=-23.516563124999998, timeStamp=Thu Feb 06 15:56:00 BRST 2014}
+BusPosition{identifier=11627, status=true, positionX=-46.71182225, positionY=-23.519480875, timeStamp=Thu Feb 06 15:57:00 BRST 2014}
+BusPosition{identifier=11627, status=true, positionX=-46.71107925, positionY=-23.52271425, timeStamp=Thu Feb 06 15:58:00 BRST 2014}
+BusPosition{identifier=11627, status=true, positionX=-46.70446, positionY=-23.520454125, timeStamp=Thu Feb 06 16:01:00 BRST 2014}

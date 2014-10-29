@@ -1,0 +1,15 @@
+BusPosition{identifier=21505, status=false, positionX=-46.636118749999994, positionY=-23.586417000000004, timeStamp=Tue Oct 28 18:24:00 BRST 2014}
+BusPosition{identifier=21505, status=false, positionX=-46.63626825, positionY=-23.586179, timeStamp=Tue Oct 28 18:25:00 BRST 2014}
+BusPosition{identifier=21505, status=false, positionX=-46.63626825, positionY=-23.586179, timeStamp=Tue Oct 28 18:26:00 BRST 2014}
+BusPosition{identifier=21505, status=false, positionX=-46.636118749999994, positionY=-23.586417000000004, timeStamp=Tue Oct 28 18:27:00 BRST 2014}
+BusPosition{identifier=21505, status=false, positionX=-46.636118749999994, positionY=-23.586417000000004, timeStamp=Tue Oct 28 18:28:00 BRST 2014}
+BusPosition{identifier=21505, status=false, positionX=-46.636118749999994, positionY=-23.586417000000004, timeStamp=Tue Oct 28 18:29:00 BRST 2014}
+BusPosition{identifier=21505, status=false, positionX=-46.636118749999994, positionY=-23.586417000000004, timeStamp=Tue Oct 28 18:30:00 BRST 2014}
+BusPosition{identifier=21505, status=false, positionX=-46.636118749999994, positionY=-23.586417000000004, timeStamp=Tue Oct 28 18:31:00 BRST 2014}
+BusPosition{identifier=21505, status=false, positionX=-46.63626825, positionY=-23.586179, timeStamp=Tue Oct 28 18:32:00 BRST 2014}
+BusPosition{identifier=21505, status=false, positionX=-46.63626825, positionY=-23.586179, timeStamp=Tue Oct 28 18:33:00 BRST 2014}
+BusPosition{identifier=21505, status=false, positionX=-46.63626825, positionY=-23.586179, timeStamp=Tue Oct 28 18:34:00 BRST 2014}
+BusPosition{identifier=21505, status=false, positionX=-46.63626825, positionY=-23.586179, timeStamp=Tue Oct 28 18:35:00 BRST 2014}
+BusPosition{identifier=21505, status=false, positionX=-46.63626825, positionY=-23.586179, timeStamp=Tue Oct 28 18:36:00 BRST 2014}
+BusPosition{identifier=21505, status=false, positionX=-46.63641774999999, positionY=-23.585941000000005, timeStamp=Tue Oct 28 18:37:00 BRST 2014}
+BusPosition{identifier=21505, status=false, positionX=-46.63626825, positionY=-23.586179, timeStamp=Tue Oct 28 18:38:00 BRST 2014}

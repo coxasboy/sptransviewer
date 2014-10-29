@@ -1,0 +1,1 @@
+BusPosition{identifier=21827, status=true, positionX=-46.5664695, positionY=-23.473906, timeStamp=Wed Oct 29 10:28:00 BRST 2014}
